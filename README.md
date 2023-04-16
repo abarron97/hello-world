@@ -27,4 +27,4 @@ Potential for security breaches and data leaks
 
 Needs an internet connection
 
-Not as useful for large teams or projects
+Not as useful for large teams or projects due to cost
